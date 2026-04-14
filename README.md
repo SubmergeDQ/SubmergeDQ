@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&center=true&vCenter=true&width=430&lines=Hi+I'm+SubmergeDQ;Student+%26+Developer;Web+Development+%26+Data+Science;Python+%7C+JavaScript+%7C+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=800&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub;I'm+SubmergeDQ;Student+%26+Tech+Enthusiast;Web+Dev+%26+Data+Science" alt="Typing SVG" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=SubmergeDQ&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/SubmergeDQ?tab=followers"><img src="https://img.shields.io/github/followers/SubmergeDQ?label=Follow&style=social"></a>
-  <a href="https://github.com/SubmergeDQ/SubmergeDQ/stargazers"><img src="https://img.shields.io/github/stars/SubmergeDQ/SubmergeDQ?style=social"></a>
-  <img src="https://img.shields.io/badge/Code-Passion-blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=SubmergeDQ&color=green&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/SubmergeDQ?tab=followers"><img src="https://img.shields.io/github/followers/SubmergeDQ?label=Followers&style=for-the-badge&color=green"></a>
+  <a href="https://github.com/SubmergeDQ/SubmergeDQ/stargazers"><img src="https://img.shields.io/github/stars/SubmergeDQ/SubmergeDQ?style=for-the-badge&color=green"></a>
+  <img src="https://img.shields.io/badge/Tech-Passion-green?style=for-the-badge" />
 </div>
 
 ***
 
 ## 关于我 / About Me
 
-<img align="right" width="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="210" src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"/>
 
 - 充满热情、爱探索的学生
 - 专注于Web和Android以及小程序开发
@@ -35,8 +35,8 @@
 ## GitHub Stats / 统计数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubmergeDQ&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubmergeDQ&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://readme-stats-cyan-sigma.vercel.app/api?username=SubmergeDQ&show_icons=true&theme=algolia&hide_border=true&hide_title=true" height="150"/>
+  <img src="https://readme-stats-cyan-sigma.vercel.app/api/top-langs/?username=SubmergeDQ&layout=compact&theme=algolia&hide_border=true" height="150"/>
 </div>
 
 ***
