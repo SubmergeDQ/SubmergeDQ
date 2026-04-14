@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=800&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub;I'm+SubmergeDQ;Student+%26+Tech+Enthusiast;Web+Dev+%26+Data+Science" alt="Typing SVG" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=SubmergeDQ&color=green&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/SubmergeDQ?tab=followers"><img src="https://img.shields.io/github/followers/SubmergeDQ?label=Followers&style=for-the-badge&color=green"></a>
-  <a href="https://github.com/SubmergeDQ/SubmergeDQ/stargazers"><img src="https://img.shields.io/github/stars/SubmergeDQ/SubmergeDQ?style=for-the-badge&color=green"></a>
-  <img src="https://img.shields.io/badge/Tech-Passion-green?style=for-the-badge" />
+  <h1>👋 欢迎来到我的 GitHub 个人主页</h1>
+  <h2>I'm SubmergeDQ</h2>
+  <h3>Student & Tech Enthusiast</h3>
+  <h4>Web Dev & Data Science</h4>
+  <br>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=SubmergeDQ&color=blue&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/SubmergeDQ?tab=followers"><img src="https://img.shields.io/github/followers/SubmergeDQ?label=Followers&style=for-the-badge&color=blue"></a>
+    <a href="https://github.com/SubmergeDQ/SubmergeDQ/stargazers"><img src="https://img.shields.io/github/stars/SubmergeDQ/SubmergeDQ?style=for-the-badge&color=blue"></a>
+    <img src="https://img.shields.io/badge/Tech-Passion-blue?style=for-the-badge" />
+  </div>
 </div>
 
 ***
@@ -35,8 +40,8 @@
 ## GitHub Stats / 统计数据
 
 <div align="center">
-  <img src="https://readme-stats-cyan-sigma.vercel.app/api?username=SubmergeDQ&show_icons=true&theme=algolia&hide_border=true&hide_title=true" height="150"/>
-  <img src="https://readme-stats-cyan-sigma.vercel.app/api/top-langs/?username=SubmergeDQ&layout=compact&theme=algolia&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SubmergeDQ&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubmergeDQ&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ***
