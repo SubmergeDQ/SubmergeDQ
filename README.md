@@ -56,6 +56,8 @@
 ## 联系我 / Contact
 
 - GitHub: [SubmergeDQ](https://github.com/SubmergeDQ)
+- Emil: [yihuang870@gmail.com](mailto:yihuang870@gmail.com)
+- Emil: [1500774133@qq.com](mailto:1500774133@qq.com)
 
 欢迎 Star / Fork 我的项目，一起交流成长！
 
